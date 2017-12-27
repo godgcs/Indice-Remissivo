@@ -9,7 +9,4 @@ Implementação de um sistema que construa um índice remissivo - Trabalho reali
 ### Instruções Para Compilar
 
 - gcc -Wall -o *.c exe
-- ./exe
-
-ou 
-- executar os arquivos MakeFile
+- ./exe ”arquivoPalavrasChaves” ”arquivoTexto” ”arquivoSaida”
